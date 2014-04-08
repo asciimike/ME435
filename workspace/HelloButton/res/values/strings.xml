@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HelloButton</string>
+    <string name="action_settings">Settings</string>
+    <string name="press_me">Press me!</string>
+    <string name="reset_me">Restart count</string>
+    <string name="submit">Submit</string>
+    <string name="enter_name">Enter name here</string>
+    <string name="button_start_message">%1$s have pressed the button 0 times</string>
+    <string name="button_press_message">%1$s have pressed the button %2$d time</string>
+    <string name="button_press_message_plural">%1$s have pressed the button %2$d times</string>
+    
+
+</resources>
